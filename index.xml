@@ -5,55 +5,19 @@
     <link>http://mocaris.cn/</link>
     <description>Recent content on Mocaris 一个程序猿</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>zh-cn</language>
     <lastBuildDate>Wed, 12 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://mocaris.cn/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>测试</title>
-      <link>http://mocaris.cn/post/2020-08-12-test/</link>
+      <title>MAC OS 10.12以上打开允许安装任意来源应用</title>
+      <link>http://mocaris.cn/post/mac-%E6%89%93%E5%BC%80%E4%BB%BB%E6%84%8F%E6%9D%A5%E6%BA%90/</link>
       <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://mocaris.cn/post/2020-08-12-test/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>测试</title>
-      <link>http://mocaris.cn/2020/08/11/test.html</link>
-      <pubDate>Mon, 10 Aug 2020 21:55:00 +0800</pubDate>
-      
-      <guid>http://mocaris.cn/2020/08/11/test.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>归档</title>
-      <link>http://mocaris.cn/archives/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://mocaris.cn/archives/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>搜索</title>
-      <link>http://mocaris.cn/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://mocaris.cn/search/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>搜索</title>
-      <link>http://mocaris.cn/tools/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://mocaris.cn/tools/</guid>
-      <description></description>
+      <guid>http://mocaris.cn/post/mac-%E6%89%93%E5%BC%80%E4%BB%BB%E6%84%8F%E6%9D%A5%E6%BA%90/</guid>
+      <description>在终端输入 1 sudo spctl --master-disable 在提示下输入密码并回车</description>
     </item>
     
   </channel>
